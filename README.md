@@ -2,7 +2,9 @@
 This project presents an interactive Power BI dashboard created using survey data collected from data professionals across different roles and industries. The goal of the project is to analyze key aspects of the data profession such as job roles, salaries, programming language preferences, work-life balance, and career satisfaction.
 
 # Dashboard Preview
-- <a href=
+- <a href="https://github.com/PurakDebnath/PowerBI-Dashboard/blob/main/SS%20of%20PBI%20Dashboard.png">Dashboard</a>
+ 
+- <img width="1154" height="660" alt="SS of PBI Dashboard" src="https://github.com/user-attachments/assets/faf0d5ea-3efb-4d20-8c22-25af8662c82d" />
 
 # Project Overview
 This project analyzes survey data collected from data professionals across different countries.
